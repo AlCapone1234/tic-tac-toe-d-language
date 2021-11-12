@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Al Capone"
+	],
+	"copyright": "Copyright © 2021, Al Capone",
+	"dependencies": {
+		"arsd-official:ttf": "~>10.3.8",
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"description": "A Tic Tac Toe game in D",
+	"license": "proprietary",
+	"name": "tic-tac-toe-dlang"
+}
